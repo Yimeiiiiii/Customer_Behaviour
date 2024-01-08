@@ -1,0 +1,253 @@
+CustomerID,Age ,Gender,Location,TotalSpend,CustomerConsumptionLevel,MaritalStatus,FinancialStatus,ProductCategoryPerferred,ProductSelectionTime,PurchaseFrequency,Churn
+1 ,21 ,Male,Uttar Pradesh,420.80 ,1 ,Not Married,Student,Electronics,Couple of Weeks,2 ,0 
+2 ,21 ,Male,Uttar Pradesh,1130.60 ,0 ,Not Married,Student,Electronics,Couple of Weeks,2 ,0 
+3 ,19 ,Female,Uttar Pradesh,820.90 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,0 
+4 ,25 ,Male,Maharashtra,480.25 ,1 ,Not Married,Regular Job,Clothing,An entire month,3 ,1 
+5 ,22 ,Female,Chandigarh,1490.10 ,0 ,Not Married,Freelancing,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,4 ,0 
+6 ,43 ,Female,Uttar Pradesh,680.30 ,1 ,Married,Housewife,Clothing,Within a day,2 ,1 
+7 ,20 ,Male,Punjab,470.50 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,2 ,0 
+8 ,32 ,Male,Haryana,1180.80 ,0 ,Married,Regular Job,Electronics,Within a day,3 ,1 
+9 ,26 ,Female,Chandigarh,790.20 ,1 ,Married,Freelancing,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,1 
+10 ,18 ,Female,Haryana,505.75 ,1 ,Not Married,Student,Books,An entire month,1 ,0 
+11 ,52 ,Male,Uttar Pradesh,1470.50 ,0 ,Married,Regular Job,Clothing,Within a day,1 ,0 
+12 ,22 ,Female,Gujarat,710.40 ,1 ,Not Married,Student,Books,An entire month,4 ,0 
+13 ,24 ,Male,Rajasthan,430.80 ,1 ,Not Married,Freelancing,Clothing,Within a day,4 ,1 
+14 ,19 ,Female,Delhi,1140.60 ,0 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,0 
+15 ,18 ,Female,Haryana,810.90 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,5 ,0 
+16 ,32 ,Male,Himachal Pradesh,485.25 ,1 ,Not Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,5 ,1 
+17 ,27 ,Female,Jammu and Kashmir,1500.10 ,0 ,Married,Regular Job,Electronics,Couple of Weeks,1 ,1 
+18 ,33 ,Male,Karnataka,670.30 ,1 ,Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,4 ,1 
+19 ,24 ,Female,Delhi,460.50 ,1 ,Not Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,5 ,0 
+20 ,29 ,Male,Rajasthan,1190.80 ,0 ,Married,Freelancing,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,3 ,1 
+21 ,16 ,Male,Chandigarh,830.75 ,1 ,Not Married,Student,Electronics,Couple of Weeks,1 ,1 
+22 ,17 ,Female,Haryana,520.40 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,2 ,1 
+23 ,55 ,Male,Tamil Nadu,1370.20 ,0 ,Married,Regular Job,Electronics,Within a day,2 ,1 
+24 ,20 ,Female,West Bengal,690.60 ,1 ,Not Married,Student,Clothing,Within a day,3 ,1 
+25 ,31 ,Female,Jammu and Kashmir,440.90 ,1 ,Not Married,Regular Job,Books,An entire month,1 ,0 
+26 ,19 ,Male,Delhi,1160.30 ,0 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,5 ,1 
+27 ,33 ,Male,Bihar,800.20 ,1 ,Married,Regular Job,Clothing,Couple of Weeks,3 ,0 
+28 ,58 ,Female,Maharashtra,500.75 ,1 ,Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,0 
+29 ,15 ,Male,Delhi,1460.50 ,0 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,3 ,1 
+30 ,29 ,Female,Assam,700.40 ,1 ,Married,Housewife,Home decor ,Couple of Weeks,1 ,1 
+31 ,30 ,Female,Himachal Pradesh,420.80 ,1 ,Not Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,0 
+32 ,48 ,Male,Karnataka,1130.60 ,0 ,Married,Freelancing,Books,An entire month,3 ,0 
+33 ,25 ,Male,Punjab,820.90 ,1 ,Not Married,Regular Job,Electronics,Couple of Weeks,1 ,1 
+34 ,20 ,Female,Chandigarh,480.25 ,1 ,Not Married,Student,Books,Couple of Weeks,3 ,1 
+35 ,22 ,Male,Uttar Pradesh,1490.10 ,0 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,1 ,0 
+36 ,19 ,Male,Punjab,680.30 ,1 ,Not Married,Student,Clothing,Within a day,3 ,1 
+37 ,18 ,Female,Maharashtra,470.50 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,3 ,0 
+38 ,20 ,Female,Chandigarh,1180.80 ,0 ,Not Married,Student,Books,Couple of Weeks,1 ,0 
+39 ,22 ,Male,Rajasthan,790.20 ,1 ,Not Married,Student,Clothing,Within a day,1 ,1 
+40 ,21 ,Male,Haryana,505.75 ,1 ,Not Married,Student,Clothing,Couple of Weeks,1 ,1 
+41 ,21 ,Female,Maharashtra,1470.50 ,0 ,Not Married,Student,Clothing,Couple of Weeks,1 ,1 
+42 ,22 ,Male,Uttar Pradesh,710.40 ,1 ,Not Married,Student,Electronics,Within a day,3 ,0 
+43 ,21 ,Male,Bihar,430.80 ,1 ,Not Married,Student,Books,Couple of Weeks,1 ,0 
+44 ,23 ,Male,Rajasthan,1140.60 ,0 ,Not Married,Regular Job,Electronics,An entire month,1 ,0 
+45 ,22 ,Male,Chandigarh,810.90 ,1 ,Not Married,Student,Clothing,Within a day,4 ,1 
+46 ,48 ,Female,Uttar Pradesh,485.25 ,1 ,Married,Housewife,Clothing,Within a day,2 ,1 
+47 ,31 ,Male,Haryana,1500.10 ,0 ,Not Married,Regular Job,Electronics,Less than hour,1 ,0 
+48 ,28 ,Female,Delhi,670.30 ,1 ,Married,Freelancing,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,3 ,0 
+49 ,54 ,Male,Maharashtra,460.50 ,1 ,Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,4 ,0 
+50 ,18 ,Male,Punjab,1190.80 ,0 ,Not Married,Student,Books,Less than hour,2 ,0 
+51 ,24 ,Female,Maharashtra,830.75 ,1 ,Not Married,Freelancing,Electronics,Couple of Weeks,1 ,0 
+52 ,21 ,Male,Gujarat,520.40 ,1 ,Not Married,Student,Clothing,Within a day,2 ,1 
+53 ,48 ,Male,Haryana,1370.20 ,0 ,Married,Regular Job,Books,Couple of Weeks,3 ,0 
+54 ,19 ,Male,Rajasthan,690.60 ,1 ,Not Married,Student,Clothing,Within a day,4 ,1 
+55 ,45 ,Female,Haryana,440.90 ,1 ,Married,Housewife,Kitchen utensils,Within a day,3 ,1 
+56 ,35 ,Male,Punjab,1160.30 ,0 ,Married,Freelancing,Electronics,An entire month,1 ,0 
+57 ,22 ,Female,Bihar,800.20 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,3 ,1 
+58 ,17 ,Female,Chandigarh,500.75 ,1 ,Not Married,Student,Clothing,Couple of Weeks,3 ,1 
+59 ,22 ,Male,Uttar Pradesh,1460.50 ,0 ,Not Married,Student,Electronics,Couple of Weeks,1 ,1 
+60 ,20 ,Female,Delhi,700.40 ,1 ,Not Married,Student,Clothing,Couple of Weeks,4 ,0 
+61 ,22 ,Female,Punjab,420.80 ,1 ,Not Married,Student,Clothing,Within a day,3 ,1 
+62 ,31 ,Female,Jammu and Kashmir,1130.60 ,0 ,Married,Freelancing,Books,An entire month,2 ,0 
+63 ,35 ,Female,Jharkhand,820.90 ,1 ,Not Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,1 
+64 ,24 ,Male,Chandigarh,480.25 ,1 ,Not Married,Regular Job,Electronics,Within a day,4 ,0 
+65 ,20 ,Female,Goa,1490.10 ,0 ,Not Married,Student,Electronics,Couple of Weeks,2 ,1 
+66 ,25 ,Female,Bihar,680.30 ,1 ,Not Married,Regular Job,Clothing,Within a day,1 ,0 
+67 ,19 ,Female,Punjab,470.50 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,3 ,1 
+68 ,16 ,Male,Haryana,1180.80 ,0 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,1 ,1 
+69 ,27 ,Female,Maharashtra,790.20 ,1 ,Not Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,1 ,0 
+70 ,41 ,Male,Haryana,505.75 ,1 ,Not Married,Regular Job,Books,An entire month,1 ,0 
+71 ,19 ,Female,Maharashtra,1470.50 ,0 ,Not Married,Student,Clothing,Couple of Weeks,4 ,1 
+72 ,23 ,Male,Telangana,710.40 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,4 ,0 
+73 ,43 ,Female,Punjab,430.80 ,1 ,Married,Housewife,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,3 ,1 
+74 ,26 ,Female,Karnataka,1140.60 ,0 ,Not Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,2 ,0 
+75 ,28 ,Male,Karnataka,810.90 ,1 ,Not Married,Regular Job,Clothing,Couple of Weeks,3 ,0 
+76 ,19 ,Female,Punjab,485.25 ,1 ,Not Married,Student,Books,An entire month,5 ,0 
+77 ,22 ,Male,Assam,1500.10 ,0 ,Not Married,Student,Clothing,Within a day,4 ,1 
+78 ,55 ,Female,Haryana,670.30 ,1 ,Married,Housewife,Clothing,Couple of Weeks,2 ,1 
+79 ,22 ,Male,Gujarat,460.50 ,1 ,Not Married,Student,Electronics,Couple of Weeks,3 ,1 
+80 ,20 ,Female,Rajasthan,1190.80 ,0 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,5 ,0 
+81 ,25 ,Male,Maharashtra,830.75 ,1 ,Not Married,Regular Job,Electronics,Couple of Weeks,2 ,0 
+82 ,26 ,Male,Maharashtra,520.40 ,1 ,Not Married,Regular Job,Clothing,Within a day,4 ,0 
+83 ,25 ,Male,Maharashtra,1370.20 ,0 ,Not Married,Regular Job,Electronics,An entire month,2 ,0 
+84 ,23 ,Female,Uttar Pradesh,690.60 ,1 ,Not Married,Regular Job,Clothing,Couple of Weeks,3 ,1 
+85 ,23 ,Female,Uttar Pradesh,440.90 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Less than hour,3 ,0 
+86 ,24 ,Male,Maharashtra,1160.30 ,0 ,Not Married,Regular Job,Electronics,Less than hour,3 ,0 
+87 ,21 ,Male,Delhi,800.20 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,3 ,0 
+88 ,25 ,Female,Rajasthan,500.75 ,1 ,Not Married,Regular Job,Clothing,Within a day,1 ,0 
+89 ,26 ,Female,Madhya Pradesh,1460.50 ,0 ,Not Married,Regular Job,Clothing,Couple of Weeks,2 ,0 
+90 ,24 ,Male,Bihar,700.40 ,1 ,Not Married,Regular Job,Electronics,Within a day,1 ,0 
+91 ,23 ,Female,Delhi,420.80 ,1 ,Not Married,Regular Job,Clothing,Within a day,1 ,1 
+92 ,24 ,Male,Maharashtra,1130.60 ,0 ,Not Married,Student,Electronics,Within a day,4 ,1 
+93 ,24 ,Female,Maharashtra,820.90 ,1 ,Not Married,Regular Job,Books,Within a day,1 ,0 
+94 ,25 ,Male,Maharashtra,480.25 ,1 ,Not Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,1 ,1 
+95 ,30 ,Male,Haryana,1490.10 ,0 ,Married,Freelancing,Clothing,Within a day,4 ,1 
+96 ,23 ,Female,Uttar Pradesh,680.30 ,1 ,Not Married,Student,Electronics,An entire month,1 ,1 
+97 ,54 ,Male,Uttar Pradesh,470.50 ,1 ,Married,Regular Job,Clothing,Within a day,4 ,0 
+98 ,19 ,Male,Rajasthan,1180.80 ,0 ,Not Married,Student,Books,An entire month,3 ,0 
+99 ,28 ,Male,Maharashtra,790.20 ,1 ,Not Married,Regular Job,Clothing,Within a day,2 ,0 
+100 ,48 ,Female,Jammu and Kashmir,505.75 ,1 ,Not Married,Housewife,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,1 
+101 ,22 ,Male,Haryana,1470.50 ,0 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,5 ,1 
+102 ,25 ,Male,West Bengal,710.40 ,1 ,Not Married,Regular Job,Clothing,Couple of Weeks,4 ,0 
+103 ,51 ,Male,Delhi,430.80 ,1 ,Married,Regular Job,Books,An entire month,3 ,0 
+104 ,24 ,Female,Maharashtra,1130.60 ,0 ,Not Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Couple of Weeks,3 ,1 
+105 ,23 ,Female,Punjab,820.90 ,1 ,Married,Housewife,Clothing,An entire month,3 ,0 
+106 ,24 ,Female,Chandigarh,480.25 ,1 ,Not Married,Freelancing,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,5 ,0 
+107 ,27 ,Male,Himachal Pradesh,1490.10 ,0 ,Not Married,Regular Job,Electronics,Couple of Weeks,1 ,0 
+108 ,24 ,Female,Maharashtra,680.30 ,1 ,Not Married,Regular Job,Clothing,Within a day,2 ,0 
+109 ,27 ,Male,Maharashtra,470.50 ,1 ,Not Married,Regular Job,Clothing,Within a day,2 ,1 
+110 ,20 ,Male,Haryana,1180.80 ,0 ,Not Married,Student,Electronics,Couple of Weeks,3 ,0 
+111 ,20 ,Male,Haryana,790.20 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,1 ,0 
+112 ,24 ,Male,Maharashtra,505.75 ,1 ,Not Married,Regular Job,Clothing,Within a day,1 ,0 
+113 ,20 ,Male,Haryana,1470.50 ,0 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,5 ,0 
+114 ,19 ,Male,Uttar Pradesh,710.40 ,1 ,Not Married,Student,Clothing,Within a day,1 ,0 
+115 ,20 ,Male,Punjab,430.80 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,1 ,0 
+116 ,20 ,Male,Chandigarh,1140.60 ,0 ,Not Married,Student,Electronics,Within a day,3 ,0 
+117 ,19 ,Female,Jammu and Kashmir,810.90 ,1 ,Not Married,Student,Clothing,Within a day,1 ,0 
+118 ,19 ,Female,Delhi,485.25 ,1 ,Not Married,Student,Clothing,Within a day,2 ,0 
+119 ,24 ,Male,Maharashtra,1500.10 ,0 ,Not Married,Regular Job,Electronics,Less than hour,2 ,0 
+120 ,48 ,Female,Uttar Pradesh,670.30 ,1 ,Married,Housewife,Clothing,An entire month,2 ,1 
+121 ,28 ,Female,Maharashtra,460.50 ,1 ,Not Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,4 ,0 
+122 ,20 ,Female,Jammu and Kashmir,1190.80 ,0 ,Not Married,Student,Books,Within a day,3 ,0 
+123 ,30 ,Female,Maharashtra,830.75 ,1 ,Not Married,Freelancing,Books,Couple of Weeks,3 ,0 
+124 ,24 ,Male,Uttar Pradesh,520.40 ,1 ,Not Married,Regular Job,Clothing,Within a day,3 ,0 
+125 ,30 ,Male,Maharashtra,1370.20 ,0 ,Not Married,Regular Job,Electronics,Couple of Weeks,4 ,0 
+126 ,24 ,Male,Gujarat,690.60 ,1 ,Not Married,Regular Job,Clothing,Within a day,4 ,0 
+127 ,31 ,Female,Rajasthan,440.90 ,1 ,Married,Freelancing,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,4 ,1 
+128 ,19 ,Male,Bihar,1160.30 ,0 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,2 ,1 
+129 ,24 ,Male,Uttar Pradesh,800.20 ,1 ,Married,Regular Job,Books,Couple of Weeks,4 ,0 
+130 ,45 ,Male,Karnataka,500.75 ,1 ,Married,Regular Job,Clothing,Within a day,3 ,0 
+131 ,40 ,Female,Haryana,1460.50 ,0 ,Married,Housewife,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,2 ,0 
+132 ,33 ,Male,Punjab,700.40 ,1 ,Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,1 ,1 
+133 ,29 ,Female,Chandigarh,430.80 ,1 ,Not Married,Student,Electronics,Within a day,2 ,0 
+134 ,54 ,Female,Uttar Pradesh,1140.60 ,0 ,Married,Housewife,Netflux,Less than hour,3 ,0 
+135 ,45 ,Female,Delhi,820.90 ,1 ,Married,Housewife,Clothing,Within a day,4 ,0 
+136 ,21 ,Male,Chandigarh,480.25 ,1 ,Not Married,Student,Electronics,Less than hour,3 ,0 
+137 ,22 ,Male,Chandigarh,1490.10 ,0 ,Not Married,Student,Electronics,Within a day,5 ,1 
+138 ,23 ,Female,Chandigarh,680.30 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,5 ,1 
+139 ,25 ,Female,Chandigarh,470.50 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Less than hour,5 ,1 
+140 ,25 ,Female,Chandigarh,1180.80 ,0 ,Not Married,Student,Clothing,Less than hour,5 ,1 
+141 ,54 ,Male,Delhi,790.20 ,1 ,Married,Regular Job,Books,Less than hour,2 ,1 
+142 ,52 ,Male,Karnataka,505.75 ,1 ,Married,Freelancing,Clothing,Within a day,1 ,0 
+143 ,54 ,Male,Maharashtra,1470.50 ,0 ,Married,Freelancing,Electronics,Within a day,2 ,0 
+144 ,37 ,Male,Bihar,710.40 ,1 ,Married,Regular Job,Clothing,Within a day,2 ,0 
+145 ,53 ,Male,Delhi,430.80 ,1 ,Married,Regular Job,Daily use items ,Within a day,3 ,0 
+146 ,24 ,Male,Uttar Pradesh,1130.60 ,0 ,Not Married,Student,Clothing,Within a day,4 ,0 
+147 ,53 ,Male,Tripura,820.90 ,1 ,Married,Regular Job,Electronics,Within a day,1 ,0 
+148 ,53 ,Male,West Bengal,485.25 ,1 ,Married,Regular Job,Clothing,Within a day,3 ,1 
+149 ,50 ,Male,Uttar Pradesh,1500.10 ,0 ,Married,Regular Job,Electronics,Less than hour,2 ,0 
+151 ,52 ,Male,Haryana,460.50 ,1 ,Married,Regular Job,Clothing,Within a day,1 ,0 
+152 ,54 ,Male,Haryana,1190.80 ,0 ,Married,Freelancing,Books,Within a day,2 ,1 
+153 ,51 ,Male,Delhi,830.75 ,1 ,Married,Freelancing,Electronics,Within a day,1 ,0 
+154 ,45 ,Female,Delhi,520.40 ,1 ,Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,5 ,0 
+155 ,51 ,Male,Bihar,1370.20 ,0 ,Married,Regular Job,Books,Within a day,4 ,0 
+156 ,50 ,Male,Uttar Pradesh,690.60 ,1 ,Married,Freelancing,Food items ,Less than hour,3 ,0 
+157 ,50 ,Male,Uttar Pradesh,440.90 ,1 ,Married,Freelancing,Food items ,Less than hour,3 ,0 
+158 ,51 ,Male,Uttar Pradesh,1160.30 ,0 ,Married,Freelancing,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Couple of Weeks,2 ,0 
+159 ,19 ,Female,Delhi,800.20 ,1 ,Not Married,Student,Clothing,Within a day,3 ,0 
+160 ,19 ,Female,Delhi,1420.80 ,0 ,Not Married,Student,Clothing,Within a day,3 ,0 
+161 ,20 ,Male,Uttar Pradesh,730.40 ,1 ,Not Married,Student,Clothing,Less than hour,4 ,0 
+162 ,54 ,Male,Delhi,450.60 ,1 ,Married,Regular Job,Clothing,Less than hour,2 ,0 
+163 ,52 ,Male,Haryana,1210.60 ,0 ,Married,Regular Job,Clothing,Within a day,0 ,0 
+164 ,52 ,Male,Punjab,780.90 ,1 ,Married,Regular Job,Clothing,Less than hour,1 ,1 
+165 ,58 ,Male,Uttar Pradesh,495.25 ,1 ,Married,Regular Job,Clothing,Within a day,2 ,0 
+166 ,30 ,Male,Uttar Pradesh,1390.20 ,0 ,Not Married,Regular Job,Clothing,Within a day,4 ,1 
+167 ,52 ,Male,Bihar,670.60 ,1 ,Married,Regular Job,Books,Less than hour,3 ,0 
+168 ,34 ,Male,Delhi,460.90 ,1 ,Married,Regular Job,Food,Within a day,4 ,1 
+169 ,55 ,Male,Delhi,1170.30 ,0 ,Married,Regular Job,Clothing,Within a day,5 ,1 
+170 ,52 ,Male,Rajasthan,810.20 ,1 ,Married,Regular Job,Clothing,Less than hour,1 ,0 
+171 ,54 ,Male,Maharashtra,515.75 ,1 ,Married,Regular Job,Clothing,Within a day,3 ,0 
+172 ,54 ,Male,Haryana,1450.50 ,0 ,Married,Regular Job,Electronics,Within a day,1 ,0 
+173 ,54 ,Male,Maharashtra,690.40 ,1 ,Married,Freelancing,Clothing,Less than hour,1 ,0 
+174 ,56 ,Male,Delhi,420.80 ,1 ,Married,Regular Job,Electronics,Couple of Weeks,2 ,0 
+175 ,53 ,Male,Maharashtra,1130.60 ,0 ,Married,Freelancing,Food,Less than hour,5 ,1 
+176 ,27 ,Male,Uttar Pradesh,820.90 ,1 ,Not Married,Regular Job,Clothing,Within a day,1 ,0 
+177 ,54 ,Male,Delhi,480.25 ,1 ,Married,Regular Job,Household,Within a day,2 ,1 
+178 ,55 ,Male,Uttar Pradesh,1490.10 ,0 ,Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Less than hour,2 ,1 
+179 ,52 ,Male,Gujarat,680.30 ,1 ,Married,Regular Job,Books,Within a day,2 ,0 
+180 ,54 ,Male,Karnataka,470.50 ,1 ,Married,Freelancing,Electronics,Depends on type of product,4 ,0 
+181 ,62 ,Male,Delhi,1180.80 ,0 ,Married,Freelancing,Clothing,Within a day,5 ,0 
+182 ,54 ,Female,Delhi,790.20 ,1 ,Married,Housewife,Clothing,Sometimes I keep.in a wishlist nf,1 ,0 
+183 ,56 ,Male,Karnataka,505.75 ,1 ,Married,Regular Job,Clothing,Less than hour,1 ,0 
+184 ,51 ,Male,Maharashtra,1470.50 ,0 ,Married,Freelancing,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Couple of Weeks,1 ,1 
+185 ,50 ,Male,Uttar Pradesh,710.40 ,1 ,Married,Freelancing,Clothing,Less than hour,5 ,1 
+186 ,54 ,Male,Delhi,430.80 ,1 ,Married,Regular Job,Grocery,Less than hour,3 ,0 
+187 ,49 ,Male,Maharashtra,1140.60 ,0 ,Married,Regular Job,Clothing,Less than hour,2 ,0 
+188 ,52 ,Male,Maharashtra,820.90 ,1 ,Married,Regular Job,Clothing,Less than hour,2 ,0 
+189 ,51 ,Male,Uttar Pradesh,485.25 ,1 ,Married,Freelancing,Clothing,Less than hour,1 ,1 
+190 ,53 ,Male,Chandigarh,1500.10 ,0 ,Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",One week ,2 ,0 
+191 ,56 ,Male,Haryana,670.30 ,1 ,Married,Regular Job,Electronics,Less than hour,1 ,0 
+192 ,55 ,Male,Delhi,460.50 ,1 ,Married,Regular Job,"Fashion ( Makeup, cosmetics, Perfume etc )",Less than hour,3 ,0 
+193 ,55 ,Male,Karnataka,1190.80 ,0 ,Married,Regular Job,Daily needs,Within a day,2 ,0 
+194 ,55 ,Male,West Bengal,830.75 ,1 ,Married,Regular Job,Liquor,Less than hour,5 ,0 
+195 ,35 ,Male,Delhi,520.40 ,1 ,Married,Freelancing,Electronics,Less than hour,0 ,0 
+197 ,62 ,Male,Delhi,690.60 ,1 ,Married,Housewife,Electronics,Within a day,1 ,1 
+198 ,55 ,Female,Andhra Pradesh,440.90 ,1 ,Married,Regular Job,Clothing,Couple of Weeks,2 ,0 
+199 ,27 ,Female,Chhattisgarh,1160.30 ,0 ,Married,Housewife,Household,Within a day,5 ,1 
+200 ,30 ,Female,Jharkhand,800.20 ,1 ,Married,Regular Job,House products,Within a day,4 ,1 
+201 ,51 ,Male,Delhi,525.75 ,1 ,Married,Freelancing,Electronics,Within a day,1 ,0 
+202 ,22 ,Female,Delhi,1460.50 ,0 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Couple of Weeks,4 ,1 
+203 ,21 ,Female,Gujarat,720.40 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,5 ,1 
+204 ,55 ,Female,Jammu and Kashmir,440.80 ,1 ,Married,Housewife,Household,Couple of Weeks,5 ,1 
+205 ,19 ,Male,Tamil Nadu,1150.60 ,0 ,Not Married,Student,Clothing,An entire month,1 ,1 
+206 ,39 ,Female,Rajasthan,830.90 ,1 ,Married,Regular Job,Clothing,Couple of Weeks,2 ,0 
+207 ,24 ,Male,Karnataka,490.25 ,1 ,Not Married,Regular Job,Electronics,An entire month,1 ,0 
+208 ,39 ,Male,Uttar Pradesh,1480.10 ,0 ,Married,Regular Job,Home products,Within a day,4 ,1 
+209 ,36 ,Female,Maharashtra,690.30 ,1 ,Married,Housewife,Food products,Less than hour,5 ,0 
+210 ,29 ,Male,Punjab,480.50 ,1 ,Not Married,Freelancing,Clothing,Couple of Weeks,2 ,0 
+211 ,49 ,Female,Himachal Pradesh,1170.80 ,0 ,Married,Regular Job,Books,An entire month,1 ,1 
+212 ,22 ,Male,Chandigarh,790.20 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,4 ,1 
+213 ,17 ,Female,Haryana,510.75 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,1 ,1 
+214 ,20 ,Male,Haryana,1440.50 ,0 ,Not Married,Student,Clothing,Couple of Weeks,1 ,0 
+215 ,17 ,Male,Punjab,700.40 ,1 ,Not Married,Student,Clothing,Within a day,1 ,0 
+216 ,33 ,Male,Rajasthan,410.80 ,1 ,Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Less than hour,2 ,0 
+217 ,52 ,Female,Madhya Pradesh,1160.60 ,0 ,Married,Freelancing,Electronics,Couple of Weeks,1 ,0 
+218 ,46 ,Male,Maharashtra,810.90 ,1 ,Married,Regular Job,Books,An entire month,1 ,1 
+219 ,48 ,Female,Uttar Pradesh,495.25 ,1 ,Married,Regular Job,Clothing,Within a day,4 ,0 
+220 ,27 ,Male,West Bengal,1490.10 ,0 ,Married,Freelancing,Electronics,Couple of Weeks,1 ,1 
+221 ,19 ,Male,Maharashtra,660.30 ,1 ,Not Married,Student,Clothing,Within a day,1 ,1 
+222 ,22 ,Female,Punjab,430.50 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,2 ,0 
+223 ,21 ,Female,Punjab,1200.80 ,0 ,Not Married,Student,Clothing,Couple of Weeks,3 ,1 
+224 ,31 ,Male,Rajasthan,780.20 ,1 ,Married,Regular Job,Books,An entire month,1 ,0 
+225 ,26 ,Female,Maharashtra,505.75 ,1 ,Not Married,Regular Job,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,4 ,1 
+226 ,27 ,Female,Karnataka,1460.50 ,0 ,Not Married,Regular Job,Books,An entire month,2 ,1 
+227 ,18 ,Male,Uttar Pradesh,710.40 ,1 ,Not Married,Student,Electronics,Couple of Weeks,1 ,1 
+228 ,33 ,Female,Delhi,450.80 ,1 ,Not Married,Regular Job,Books,An entire month,1 ,0 
+229 ,35 ,Female,Jammu and Kashmir,1140.60 ,0 ,Married,Housewife,Books,Couple of Weeks,1 ,0 
+230 ,15 ,Female,Haryana,800.90 ,1 ,Not Married,Student,Books,Couple of Weeks,1 ,1 
+231 ,18 ,Female,Chandigarh,475.25 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,4 ,1 
+232 ,20 ,Male,Uttarakhand,1480.10 ,0 ,Not Married,Student,Electronics,Couple of Weeks,1 ,0 
+233 ,17 ,Male,Delhi,660.30 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,2 ,0 
+234 ,17 ,Female,Haryana,470.50 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Within a day,3 ,1 
+235 ,27 ,Female,Rajasthan,1190.80 ,0 ,Married,Housewife,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,1 ,1 
+236 ,19 ,Male,Andhra Pradesh,770.20 ,1 ,Not Married,Student,Electronics,An entire month,1 ,0 
+237 ,16 ,Female,Gujarat,515.75 ,1 ,Not Married,Student,Clothing,Couple of Weeks,1 ,1 
+238 ,37 ,Female,Uttarakhand,1450.50 ,0 ,Married,Housewife,House products,Within a day,4 ,0 
+239 ,33 ,Female,Punjab,710.40 ,1 ,Married,Housewife,Books,An entire month,1 ,0 
+240 ,37 ,Male,Telangana,430.80 ,1 ,Not Married,Freelancing,"Fashion ( Makeup, cosmetics, Perfume etc )",An entire month,1 ,1 
+241 ,21 ,Female,Delhi,1160.60 ,0 ,Not Married,Student,Clothing,Couple of Weeks,4 ,1 
+242 ,24 ,Male,Tamil Nadu,820.90 ,1 ,Not Married,Student,Books,An entire month,0 ,0 
+243 ,41 ,Female,West Bengal,495.25 ,1 ,Married,Regular Job,Clothing,Within a day,2 ,0 
+244 ,26 ,Female,Maharashtra,1490.10 ,0 ,Not Married,Regular Job,Clothing,Within a day,4 ,1 
+245 ,17 ,Male,Tripura,660.30 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,4 ,1 
+246 ,29 ,Female,Delhi,440.50 ,1 ,Married,Freelancing,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,4 ,0 
+247 ,23 ,Male,Delhi,1200.80 ,0 ,Not Married,Student,Food,Less than hour,4 ,0 
+248 ,15 ,Female,Rajasthan,780.20 ,1 ,Not Married,Student,Books,Couple of Weeks,1 ,1 
+249 ,28 ,Male,Chandigarh,505.75 ,1 ,Not Married,Regular Job,Electronics,Couple of Weeks,4 ,0 
+250 ,28 ,Female,Tamil Nadu,1460.50 ,0 ,Not Married,Regular Job,Electronics,An entire month,1 ,0 
+251 ,42 ,Male,Haryana,710.40 ,1 ,Married,Freelancing,Clothing,Within a day,2 ,1 
+252 ,16 ,Female,Maharashtra,450.80 ,1 ,Not Married,Student,"Fashion ( Makeup, cosmetics, Perfume etc )",Couple of Weeks,1 ,0 
+253 ,15 ,Male,Karnataka,1140.60 ,0 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,4 ,1 
+254 ,18 ,Female,Rajasthan,800.90 ,1 ,Not Married,Student,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",Within a day,1 ,0 
